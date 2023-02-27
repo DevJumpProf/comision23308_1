@@ -1,4 +1,4 @@
-COMISIÓN 22808
+COMISIÓN 23808
 Les dejo los links a todos los accesos importantes:
 
 Link de clases:
@@ -6,7 +6,7 @@ Martes y Jueves 19 a 20.30
 https://meet.google.com/xbz-fgsd-uxh
 
 Formulario de Asistencia:
-https://docs.google.com/forms/d/e/1FAIpQLSecrZutfrcwICBUypATdj0SH-eXUXjhB_TaSmSKJwo-uPEyoQ/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSdpNQzB_TW5PFk-0cyc8zpEvn9GLc1slBjg-lu72iDIgD59mA/viewform
 
 Link clases grabadas:
 https://youtube.com/playlist?list=PL9FDV61UoWvJ2zRHabuG7DHqnTmI70NYU
@@ -18,7 +18,7 @@ Link aula virtual:
 https://aulasvirtuales.bue.edu.ar/
 
 Link github:
-https://github.com/DevJumpProf/comision22808_1_23.git
+https://github.com/DevJumpProf/comision23808_1
 
 Mails:
 Profesor Gabriel: gabriel.munoz@bue.edu.ar
