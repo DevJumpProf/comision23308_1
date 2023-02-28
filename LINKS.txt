@@ -18,7 +18,7 @@ Link aula virtual:
 https://aulasvirtuales.bue.edu.ar/
 
 Link github:
-https://github.com/DevJumpProf/comision23808_1
+https://github.com/DevJumpProf/comision23308_1
 
 Mails:
 Profesor Gabriel: gabriel.munoz@bue.edu.ar
