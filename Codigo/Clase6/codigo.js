@@ -61,43 +61,55 @@ let animales =["Gato","Perro","Tigre","Rata","Conejo","Gato"];
 let numeros = [1,2,8,7,4,6,7,3]
 
 //slice()
-let nuevoArray=animales.slice(2,5)
+/* slice() : Devuelve una copia de una parte del array dentro de un nuevo array empezando por inicio hasta fin (fin no incluido). El array original no se modificará. */
+/* let nuevoArray=animales.slice(2,5) */
 /* console.log(nuevoArray); */
 
 //unshift
+//Agrega Inicio al final del array
 /* animales.unshift("Dragon");
 console.log(animales) */
 
 //shift
+// elimina elemento al inicio del array
 /* animales.shift()
 console.log(animales) */
 
 
 /* .pop()
-animales.pop()
+// elimina elemento al final del array
+animales.pop() 
 console.log(animales); */
 
-//.push()
+//.push() 
+//Agrega elemento/s al final del array
 /* animales.push("Cocodrilo") */
 
 
 
 // find()
+/* .find() : Recorre el array y retorna la primera coincidencia del elemento que se busca.
+.find */
 /* const nuevoArray = numeros.find(element=> element<3)
 console.log(nuevoArray); */
-//forEach
 
+//forEach
+/* .forEach() : Permite iterar el contenido de un array. Recibe un callback que toma como parámetro el elemento actual de la iteración y el indice del mismo.
+forEach */
 /* animales.forEach((element,i)=>{
     console.log(`el ${element} está en la posicion ${i}`);
 }) */
 
 //filter()
+/* .filter() : Recorre el array y retorna un nuevo array con aquellos elementos que pasen una determinada condición
+.filter */
 /* 
 let nuevoArray=animales.filter (elements=>elements==="Perro"||elements==="Gato")
 console.log(nuevoArray) */
 
 //.map()
-
+/* .map() : Permite recorre el array y modificar los elements presentes en él, retornando un nuevo array con la misma longitud que el original.
+.map */
 /* let nuevoArray = numeros.map(elements =>elements *10)
 console.log(nuevoArray); */
 
