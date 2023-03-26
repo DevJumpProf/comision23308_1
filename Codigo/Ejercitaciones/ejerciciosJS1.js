@@ -7,19 +7,19 @@ UTILIZAMOS SWITCH
 // reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = "Pedro";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = null;
+const nuevoNum = 34;
 
 // Crea una variable booleana:
-const nuevoBool = null;
+const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
-const nuevaResta = 10 - null === 5;
-
+const nuevaResta = 10 - 5 === 5;
+console.log(nuevaResta);
 // Resuelve el siguiente problema matemático:
-const nuevaMultiplicacion = null * 4 === 40 ;
+const nuevaMultiplicacion = null * 4 === 40;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === null;
@@ -29,7 +29,7 @@ const nuevoModulo = 21 % 5 === null;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-console.log(str)
+  console.log(str)
 }
 devolverString("Cadena de texto")
 
@@ -99,7 +99,7 @@ function esPar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
 
-  
+
 }
 
 function esImpar(num) {
@@ -181,20 +181,20 @@ function obtenerAreaRectangulo(alto, ancho) {
 
 }
 
-function retornarPerimetro(lado){
+function retornarPerimetro(lado) {
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
 
 }
 
-function areaDelTriangulo(base, altura){
+function areaDelTriangulo(base, altura) {
   //Desarrolle una función que calcule el área de un triángulo.
   //Escribe tu código aquí
 
 
 }
 
-function deEuroAdolar(euro){
+function deEuroAdolar(euro) {
   //Supongamos que 1 euro equivale a 1.20 dólares. 
   //Escribe un programa que pida al usuario un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
@@ -202,11 +202,11 @@ function deEuroAdolar(euro){
 }
 
 
-function esVocal(letra){
+function esVocal(letra) {
   //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
   //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
-    //si ingresa una consonante muestre en pantalla dato incorrecto
+  //si ingresa una consonante muestre en pantalla dato incorrecto
   //Escribe tu código aquí
 
 
