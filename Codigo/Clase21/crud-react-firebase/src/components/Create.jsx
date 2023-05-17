@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {useNavigate}from "react-router-dom"
+import {useNavigate,Link}from "react-router-dom"
 import {collection,addDoc} from "firebase/firestore"
 import {db} from "../firebaseConfig/firebase.js"
 
@@ -55,6 +55,11 @@ export const Create =()=>{
     type="number" />
 </div>
 <button type="submit" className="btn btn-primary">Create Heroe</button>
+<Link to= "/">
+            <button className="btn btn-danger">
+            CANCEL
+            </button>
+            </Link>
                     </form>
                 </div>
             </div>
