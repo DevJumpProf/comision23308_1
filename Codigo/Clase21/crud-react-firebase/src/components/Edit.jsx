@@ -3,6 +3,7 @@ import { useParams, useNavigate, Link } from "react-router-dom";
 import { getDoc, doc, updateDoc } from "firebase/firestore";
 import { db } from "../firebaseConfig/firebase.js";
 
+
 export const Edit = () => {
   const [name, setName] = useState("");
   const [age, setAge] = useState(0);
