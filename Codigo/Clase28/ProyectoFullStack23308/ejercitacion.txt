@@ -1,0 +1,9 @@
+
+*Utilizar Sweet Alert
+*reacondicionar UseEfect para la eliminacion de posts
+*crear bloque try/catch para las funciones asincronas
+
+
+
+
+
